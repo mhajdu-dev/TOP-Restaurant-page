@@ -1,0 +1,19 @@
+{
+  "name": "top-restaurant-page",
+  "version": "1.0.0",
+  "description": "Restaurant project from The Odin Project. The project's main objective is the usage of the ES6 Modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhajdu-dev/TOP-Restaurant-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhajdu-dev/TOP-Restaurant-page/issues"
+  },
+  "homepage": "https://github.com/mhajdu-dev/TOP-Restaurant-page#readme"
+}
